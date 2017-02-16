@@ -1,0 +1,60 @@
+
+Volume
+
+We currently see the exponential growth in the data storage as the data is now more than text data. We can find data in the format of
+videos, musics and large images on our social media channels. It is very common to have Terabytes and Petabytes of the storage system 
+for enterprises. As the database grows the applications and architecture built to support the data needs to be reevaluated quite often. 
+Sometimes the same data is re-evaluated with multiple angles and even though the original data is the same the new found intelligence 
+creates explosion of the data. The big volume indeed represents Big Data.
+
+Velocity
+
+The data growth and social media explosion have changed how we look at the data. There was a time when we used to believe that data of 
+yesterday is recent. The matter of the fact newspapers is still following that logic. However, news channels and radios have changed how
+fast we receive the news. Today, people reply on social media to update them with the latest happening. On social media sometimes a few 
+econds old messages (a tweet, status updates etc.) is not something interests users. They often discard old messages and pay attention 
+to recent updates. The data movement is now almost real time and the update window has reduced to fractions of the seconds. This high 
+velocity data represent Big Data.
+
+Variety
+
+Data can be stored in multiple format. For example database, excel, csv, access or for the matter of the fact, it can be stored in a 
+simple text file. Sometimes the data is not even in the traditional format as we assume, it may be in the form of video, SMS, pdf or 
+something we might have not thought about it. It is the need of the organization to arrange it and make it meaningful. It will be easy 
+to do so if we have data in the same format, however it is not the case most of the time. The real world have data in many different 
+formats and that is the challenge we need to overcome with the Big Data. This variety of the data represent represent Big Data.
+
+Veracity
+Big Data Veracity refers to the biases, noise and abnormality in data. Is the data that is being stored, and mined meaningful to the 
+problem being analyzed. Inderpal feel veracity in data analysis is the biggest challenge when compares to things like volume and velocity. 
+In scoping out your big data strategy you needto have your team and partners work to help keep your data clean and processes to keep
+‘dirty data’ from accumulating in your systems.
+
+Big Data in Simple Words
+
+Big Data is not just about lots of data, it is actually a concept providing an opportunity to find new insight into your existing data 
+as well guidelines to capture and analysis your future data. It makes any business more agile and robust so it can adapt and overcome 
+business challenges.
+
+
+
+2.
+  Hadoop is the solution where it enables automated distributed computing of big data.
+  Its components  HDFS and MapReduce solve the problems with Bigdata,where HDFS manages the huge data in different commidity systems
+  and mapreduce handles the processing of bigdata
+ 
+ 3.
+ 
+The terms "scale up" and "scale out" are commonly used in discussing different strategies for adding functionality to hardware systems.
+They are fundamentally different ways of addressing the need for more processor capacity, memory and other resources. Scaling up 
+generally refers to purchasing and installing a more capable central control or piece of hardware. For example, when a project’s 
+input/output demands start to push against the limits of an individual server, a scaling up approach would be to buy a more capable 
+server with more processing capacity and RAM. By contrast, scaling out means linking together other lower-performance machines to 
+collectively do the work of a much more advanced one. With these types of distributed setups, it's easy to handle a larger workload 
+by running data through different system trajectories. There are a variety of benefits and disadvantages to each approach. Scaling 
+up can be expensive, and ultimately, some experts argue that it's not viable because of the limits to individual hardware pieces on 
+the market. However, it does make it easier to control a system, and to provide for certain data quality issues.
+One of the main reasons for the popularity of scaling out is that this approach is what's behind a lot of the big data initiatives
+done today with tools like Apache Hadoop. Here, central data handling software systems administrate huge clusters of hardware pieces, 
+for systems that are often very versatile and capable. However, experts are now beginning to debate the use of scaling up and 
+scaling out, looking at which kind of approach is best for any given project.
